@@ -1,16 +1,18 @@
 <!-- Profile README for Sasindu Chanaka -->
+<h1 align="center" style="font-size:40px; color:#1E90FF;">✨ Welcome to My GitHub Profile ✨</h1>
+<h2 align="center" style="color:#4682B4;">I'm Sasindu Chanaka 👨‍💻</h2>
 
-<h1 align="center" style="color:#1E90FF;">Hi there, I'm Sasindu Chanaka 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+GenAI+%7C+Agents+%7C+Web+Dev;Passionate+about+AI-powered+solutions;Exploring+Edge+AI+%26+Cloud+Hybrid+Systems" width="700" height="450" />
+</p>
+
 <h3 align="center">AI/ML Enthusiast | Final Year Computer Engineering Undergraduate</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=22&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+GenAI+%7C+Agents+%7C+Web+Dev;Passionate+about+AI-powered+solutions;Exploring+Edge+AI+%26+Cloud+Hybrid+Systems" />
-</p>
+
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7dacdb55-f57d-42b8-b310-3a2739eef4c7" width="800" height="600" style="border-radius:50%; border:3px solid #1E90FF;" />
+  <img src="https://github.com/user-attachments/assets/ec106cba-e185-4747-94d5-875fe661db25" width="7000" height="500" style="border-radius:50%; border:3px solid #1E90FF;" alt="chanak"/>
 </p>
-
 
 ---
 
@@ -97,5 +99,10 @@ I am a **Final-year BSc Computer Engineering Undergraduate** passionate about **
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=24&center=true&vCenter=true&width=650&lines=Hello+👋;Passionate+about+AI+%26+ML;Exploring+Generative+AI+%26+Agents;Building+Web+Apps+%26+Edge+AI+Solutions;Let's+build+something+amazing+🚀" />
+</p>
+
 
 <p align="center" style="color:#1E90FF;">💡 *“Always exploring AI to create real-world impact.”* 💡</p>
