@@ -8,10 +8,8 @@
 
 <h3 align="center">AI/ML Enthusiast | Final Year Computer Engineering Undergraduate</h3>
 
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec106cba-e185-4747-94d5-875fe661db25" width="7000" height="500" style="border-radius:50%; border:3px solid #1E90FF;" alt="chanak"/>
+  <img src="https://github.com/user-attachments/assets/ec106cba-e185-4747-94d5-875fe661db25" width="700" height="500" style="border-radius:50%; border:3px solid #1E90FF;" alt="chanak"/>
 </p>
 
 ---
